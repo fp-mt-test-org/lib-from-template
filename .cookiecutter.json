@@ -1,6 +1,7 @@
 {
-    "_template": "/var/folders/3z/qpmfl8q908x43zcc0hm8p6380000gq/T/433100ab-d0f6-443d-bc34-a9ba7e1a6a0b/template",
-    "access": "fp-mt",
+
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
+
     "artifact_id": "lib-from-template",
     "component_id": "lib-from-template",
     "description": "lib-from-template",

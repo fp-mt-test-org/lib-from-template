@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "lib-from-template"
+  description: "lib-from-template"
+  annotations:
+    github.com/project-slug: fp-mt-test-org/lib-from-template
+    backstage.io/techdocs-ref: url:https://github.com/fp-mt-test-org/lib-from-template
+    backstage.io/kubernetes-id: lib-from-template
+spec:
+  type: library
+  lifecycle: experimental
+  owner: "Product Infrastructure"

@@ -1,0 +1,36 @@
+{
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
+    "artifact_id": "lib-from-template",
+    "component_id": "lib-from-template",
+    "description": "lib-from-template",
+    "destination": {
+        "git": {
+            "filepath": "",
+            "filepathtype": "",
+            "full_name": "fp-mt-test-org/lib-from-template",
+            "git_suffix": "False",
+            "hash": "",
+            "href": "https://github.com/fp-mt-test-org/lib-from-template",
+            "name": "lib-from-template",
+            "organization": "fp-mt-test-org",
+            "owner": "fp-mt-test-org",
+            "pathname": "/fp-mt-test-org/lib-from-template",
+            "port": null,
+            "protocol": "https",
+            "protocols": [
+                "https"
+            ],
+            "query": {},
+            "ref": "",
+            "resource": "github.com",
+            "search": "",
+            "source": "github.com",
+            "token": "",
+            "user": ""
+        }
+    },
+    "java_package_name": "libfromtemplate",
+    "owner": "Product Infrastructure",
+    "repo_owner": "fp-mt-test-org",
+    "storePath": "https://github.com/fp-mt-test-org/lib-from-template"
+}
